@@ -1,1 +1,2 @@
-. $PSScriptRoot\Functions\Gen-SBToken.ps1
+. $PSScriptRoot\Functions\az-SBToken.ps1
+. $PSScriptRoot\Functions\decode-jwt.ps1
