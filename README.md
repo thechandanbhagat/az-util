@@ -1,7 +1,9 @@
 # Powershell Module 
 ---
 ## Install 
-`Install-Module -Name UtilModule`
+```powershell
+Install-Module -Name UtilModule
+```
 ---
 ## Usage
 ### az-sbtoken
@@ -20,3 +22,9 @@ az-sbtoken -u <url> -p <policy> -k <key> -t <time>
 # you will be prompted to enter the necessary parameters
 ```
 ### util-decode-jwt
+
+---
+## Get list of Commands 
+```powershell
+Get-Command -Module UtilModule -CommandType Function
+```
