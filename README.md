@@ -1,4 +1,5 @@
 # Powershell Module 
+![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/utilmodule?style=for-the-badge&logo=nuget) ![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/utilmodule?style=for-the-badge&logo=nuget&label=Powershell%20Version)
 ---
 ## Install 
 ```powershell
